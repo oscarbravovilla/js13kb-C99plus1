@@ -1,10 +1,5 @@
 import { GameState } from "./enums";
-
 AFRAME.registerComponent('cheap-collider', {
-	schema:
-	{
-		id: { type: 'string', default: null }
-	},
 	init: function () {
 		this.isHit = true;
 		this.key = null;
