@@ -15,8 +15,11 @@ DESKTOP - WASD controls, mouse left+click rotate camera.
 
 ## CREDITS
 code - Oscar Bravo Villacorta
+
 shaders - [shader-frog](https://shaderfrog.com/app)
+
 music - deconstructive remix from original SWAY by bits'n'bites [sound-box](https://sb.bitsnbites.eu/)
+
 thanks to Andrew
 
 boiletplate [js13k-aframe-boilerplate](https://github.com/mguinea/js13k-aframe-boilerplate#readme)
@@ -26,4 +29,5 @@ made with [AFRAME](https://aframe.io/)
 ## Installation 
 ```bash
 npm i
+npm run start
 ```
