@@ -1,12 +1,12 @@
 
 
-# BOX99+1 - 13KB GAME contest 2022
+# C99+1 - 13KB GAME contest 2022
 
 ## PLOT
-Escaping from the city dome has been your life goal. You and many others started the long path, many of them have fallen and perished along the way. You stand alone now but close to end. The 99+1 boxes Well plus the 7 levels remaining are the last obstacle before freedom. Find your way out from one level to the next, through boxes that never disappear.
+Escaping from the city dome has been your life goal. You and many others started the long path, many of them have fallen and perished along the way. You stand alone now but close to end. The 99+1 cubes Well plus the 7 levels remaining are the last obstacle before freedom. Find your way out from one level to the next, through cubes that never disappear.
 
 ## HOW TO PLAY
-Move up levels by reaching the cube that is in front of you. You will have to move through cycles 1 never falls, always remember to have the box on top of it.
+Move up levels by reaching the cube that is in front of you. You will have to move through cycles 1 never falls, always remember to have the cube on top of it.
 
 ## CONTROLS
 VR - (META QUEST 2 /META QUEST 1), Use thumbstick controls for translateA || B buttons for rotating 30º (Both left and Right controller)
@@ -23,6 +23,7 @@ music - deconstructive remix from original SWAY by bits'n'bites [sound-box](http
 thanks to Andrew
 
 boiletplate [js13k-aframe-boilerplate](https://github.com/mguinea/js13k-aframe-boilerplate#readme)
+
 made with [AFRAME](https://aframe.io/)
 
 
